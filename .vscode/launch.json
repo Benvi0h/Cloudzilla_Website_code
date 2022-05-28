@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+    {
+        "name": "Open Index1.html",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "file":"D:\\Cloudzilla_Website\\Index1.html"
+    },
+        
+        {
+            "name": "Open Demo website.html",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "file":"d:\\Cloudzilla_Website\\Demo website.html"
+        },
+
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "d:\\Cloudzilla_Website\\index.html"
+        }
+    ]
+}
