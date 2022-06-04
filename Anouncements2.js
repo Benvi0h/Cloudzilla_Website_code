@@ -91,7 +91,7 @@ $( document ).ready( function() {
     var settings = {
   
         entries: entries,
-        width: '100%',
+        width: '90%',
         // height: 980,
         radius: '75%',
         radiusMin: 100,
@@ -101,9 +101,9 @@ $( document ).ready( function() {
         opacityOut: 0.1,
         opacitySpeed: 8,
         fov: 700,
-        speed: .7,
+        speed: .6,
         fontFamily: 'Roboto Condensed, sans-serif',
-        fontSize: '15',
+        fontSize: '19',
         fontColor: '#b8eaff',
         fontWeight: 'bold',//bold
         fontStyle: 'normal',//italic 

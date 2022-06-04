@@ -544,12 +544,6 @@ h3
         transform: scale(1.5);
         clip-path: circle(2.2em);
     }
-    #ankush-tom
-    {
-        transform: scale(0.7);
-        clip-path: circle(4.6em);
-        object-position: 5px 20px;
-    }
     /* Image positioning */
 }
 @media screen and (max-width:440px)
@@ -631,11 +625,6 @@ h3
         transform: scale(1.4);
         clip-path: circle(1.5em);
         object-position: 4px 20px;
-    }
-    #ankush-tom
-    {
-        transform: scale(0.75);
-        clip-path: circle(2.8em);
     }
     /* Image positioning */
 }
