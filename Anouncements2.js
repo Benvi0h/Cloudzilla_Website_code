@@ -103,7 +103,7 @@ $( document ).ready( function() {
         fov: 700,
         speed: .6,
         fontFamily: 'Roboto Condensed, sans-serif',
-        fontSize: '19',
+        fontSize: '15',
         fontColor: '#b8eaff',
         fontWeight: 'bold',//bold
         fontStyle: 'normal',//italic 
@@ -225,3 +225,7 @@ $( document ).ready( function() {
     init();
   
   })();
+
+
+
+  
