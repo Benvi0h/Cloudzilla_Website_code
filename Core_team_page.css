@@ -475,6 +475,12 @@ h3
     clip-path: circle(2.85em);
     object-position: 5px 55px;
 }
+#kishore-tom
+{
+    transform: scale(1.2);
+    clip-path: circle(4.9em);
+    object-position: 5px 55px;
+}
 @media screen and (max-width:720px)
 {
     /* Image positioning */
@@ -544,6 +550,7 @@ h3
         transform: scale(1.5);
         clip-path: circle(2.2em);
     }
+    
     /* Image positioning */
 }
 @media screen and (max-width:440px)
@@ -562,7 +569,7 @@ h3
     {
         transform: scale(1.2);
         clip-path: circle(1.9em);
-        object-position: 5px 10px;
+        object-position: 1px 27px;
     }
     #gowtham-tom
     {
